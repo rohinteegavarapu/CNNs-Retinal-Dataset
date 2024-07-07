@@ -24,24 +24,43 @@ Installed Software
 Python 3.12.4
 
 Installed Python 3rd-Party Packages:
+
 NumPy
+
 Matplotplib
+
 Pandas
+
 ZLib-ng
+
 Seaborn
+
 SciKit-Learn
+
 SciKit-Image
+
 IterTools
+
 ImbalancedLearn
+
 OS (Built-in to default installation)
+
 OpenCV
+
 SciPY
+
 Glob (Built-in to default installation)
+
 CSV (Built-in to default installation)
+
 TQDM (Built in to default installation)
+
 JupyterLab
+
 Keras
+
 TensorFlow
+
 Python Imaging Module (PIL; Built-in to default installation)
 
 Folder Size: 7.5-7.7 GB
@@ -51,22 +70,34 @@ This folder must be put in the file path "C:\" (SSD) or "D:\" (External Hard Dri
 This repository contains:
 
 Full Training Dataset (REQUIRED):
+
 Normal: 26,315 Images
+
 CNV (Choroidal Neovascularization): 37,205 Images
+
 DME (Diabetic Macular Edema): 11,348 Images
+
 Drusen: 8,616 Images
+
 Total: 83,484 Images
 
 Testing Dataset (REQUIRED):
+
 Normal: 250 Images
+
 CNV: 250 Images
+
 DME: 250 Images
+
 Drusen: 250 Images
 
 
 Training Dataset Portions of:
+
 5000 Images Per Class (20,000 Images Total)
+
 1000 Images Per Class (4,000 Images Total)
+
 250 Images Per Class (1,000 Images Total)
 
 A proper run of the program with the full dataset should last around 45 - 75 minutes, depending on your device.
@@ -76,6 +107,7 @@ Additional Material:
 Model Weights (REQUIRED)
 
 Sample Data:
+
 VGG16 and InceptionV3 (5000 Per Class & Full Dataset Runs)
 
 Program (REQUIRED)
