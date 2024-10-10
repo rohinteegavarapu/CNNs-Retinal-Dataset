@@ -1,4 +1,10 @@
 # CNN-Retinal-Dataset
+
+DUE TO LIMITATIONS WITHIN GITHUB, THIS REPOSITORY WILL NOT BE USED. BELOW ARE TWO LINKS WITH ALL THE NECESSARY FILES.
+
+MODEL WEIGHT AND PROGRAM: https://www.dropbox.com/scl/fo/a031fhxt0eqbinw1lv0q9/AAoVhO7akPYaPfpxjQgCcHg?rlkey=yhybz46rjduwgaq89iik3h8w1&st=mmoambvq&dl=0
+DATASET: https://www.kaggle.com/code/paultimothymooney/detect-retina-damage-from-oct-images
+
 This is a github repository that contains the full dataset of my currently unfinished study on identifying and classifying 3 different retinal conditions with two different models: Keras' InceptionV3 and VGG16.
 
 Recommended Specifications:
